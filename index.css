@@ -1,0 +1,40 @@
+/*Exercice 3*/
+
+table{
+    border: 3px solid #000000;
+    border-collapse: collapse;
+}
+
+tr, td, th{
+    border: 1px solid #000000;
+}
+
+.date{
+    width: 130px;
+    text-align: right;
+    padding:  0.5em;
+}
+
+.grey{
+    background-color: grey;
+}
+
+.green{
+    width: 75px;
+    background-color: greenyellow;
+}
+
+.red{ 
+    width: 75px;
+    text-align: center;
+    background-color: red;
+}
+.subject{
+    width: 200px;
+    padding: 0.5em;
+}
+.center{
+    text-align: center;
+}
+
+
